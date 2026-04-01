@@ -3,5 +3,5 @@
   "id": "notice-001",
   "title": "Thông báo từ 5H",
   "message": "Nội dung thông báo của bạn",
-  "show_once": true
+  "show_once": fasle
 }
