@@ -1,8 +1,8 @@
 {
-  "bundle_version": "1.0.1",
+  "bundle_version": "1.0.2",
   "bundle_file": "5H_Bundle.zip",
   "bundle_url": "https://github.com/5Hung/5h-plugin-store/releases/latest/download/5H_Bundle.zip",
   "plugins_list_url": "https://5hung.github.io/5h-plugin-store/plugins.txt",
   "notice_url": "https://5hung.github.io/5h-plugin-store/notice.json",
-  "notes": "Lan 1"
+  "notes": "Lan 2"
 }
