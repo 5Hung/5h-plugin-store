@@ -1,3 +1,3 @@
-5H_XoaVatLieu.rb|26. Xóa vật liệu|FiveH::XoaVatLieu
+5H_XoaVatLieuLoader.rb|26. Xóa vật liệu|FiveH::XoaVatLieu
 5H_TimTamDaVatLieu.rb|27. Tìm Tấm Sai Mã Ván|FiveH::TimTamDaVatLieu
 5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhau
