@@ -1,5 +1,5 @@
-5H_TaoTam/entry.rbe|a. Tạo Tấm|FiveH::TaoTamEntry
+5H_TaoTam.rb|b. Tạo Tấm|FiveH::TaoTamLoader
 5H_TaoDot.rb|b. Tạo Đợt|FiveH::TaoDotLoader
 5H_ChiaDeu.rb|c. Chia Đều|FiveH::ChiaDeuLoader
-MC_5H/entry.rbe|d1 MC_5H - Tạo Mộng Xương Chó|FiveH::MC5HEntry
+mc5h|d1 MC_5H - Tạo Mộng Xương Chó
 
