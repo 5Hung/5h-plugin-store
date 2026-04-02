@@ -1,5 +1,5 @@
-5H_XoaVatLieu.rb|26. Xóa vật liệu|FiveH::XoaVatLieuLoader
-5H_TimTamDaVatLieu.rb|27. Tìm Tấm Sai Mã Ván|FiveH::TimTamDaVatLieu
-5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhau
-mc5h|d2 MC_5H - Tạo Mộng Xương Chó
-5H_TimTamTrungNhau.rb|28. |FiveH::TimTamTrungNhau
+5H_TaoTam.rb|a. Tạo Tấm|FiveH::TaoTamLoader
+5H_TaoDot.rb|b. Tạo Đợt|FiveH::TaoDotLoader
+5H_ChiaDeu.rb|c. Chia Đều|FiveH::ChiaDeuLoader
+mc5h|d. Tạo Mộng Xương Chó
+
