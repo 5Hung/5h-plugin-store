@@ -2,3 +2,4 @@
 5H_TimTamDaVatLieu.rb|27. Tìm Tấm Sai Mã Ván|FiveH::TimTamDaVatLieu
 5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhau
 mc5h|d2 MC_5H - Tạo Mộng Xương Chó
+5H_TimTamTrungNhau.rb|28. |FiveH::TimTamTrungNhau
