@@ -1,5 +1,6 @@
 5H_TaoTam.rb|b. Tạo Tấm|FiveH::TaoTamLoader
 5H_TaoDot.rb|b. Tạo Đợt|FiveH::TaoDotLoader
 5H_ChiaDeu.rb|c. Chia Đều|FiveH::ChiaDeuLoader
-mc5h|d1 MC_5H - Tạo Mộng Xương Chó
+mc5h|d. MC_5H - Tạo Mộng Xương Chó
+5H_XoaVatLieu.rb|c. Xóa Vật Liệu|FiveH::XoaVatLieuLoader
 
