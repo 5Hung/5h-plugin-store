@@ -4,4 +4,5 @@
 mc5h|d. MC_5H - Tạo Mộng Xương Chó
 5H_XoaVatLieu.rb|e. Xóa Vật Liệu|FiveH::XoaVatLieuLoader
 FiveH_LED.rb|f. LED|FiveH::LEDEntry
-5H_Uon_Cong_Loader.rb|20. Uốn cong - xẻ rãnh|FiveH::UonCongEntry
+5H_Uon_Cong_Loader.rb|g. Uốn cong - xẻ rãnh|FiveH::UonCongEntry
+FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
