@@ -6,3 +6,5 @@ mc5h|d. MC_5H - Tạo Mộng Xương Chó
 FiveH_LED.rb|f. LED|FiveH::LEDEntry
 5H_Uon_Cong_Loader.rb|g. Uốn cong - xẻ rãnh|FiveH::UonCongEntry
 FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
+5H_KhauVan.rb|l. 5H_Khâu Ván|FiveH::KhauVanEntry
+5H_KhauAmDuong.rb|m. 5H_Khấu Âm Dương|FiveH::KhauAmDuongEntry
