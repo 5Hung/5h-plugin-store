@@ -3,4 +3,4 @@
 5H_ChiaDeu.rb|c. Chia Đều|FiveH::ChiaDeuLoader
 mc5h|d. MC_5H - Tạo Mộng Xương Chó
 5H_XoaVatLieu.rb|e. Xóa Vật Liệu|FiveH::XoaVatLieuLoader
-led5h|f. LED
+FiveH_LED.rb|f. LED|FiveH::LEDEntry
