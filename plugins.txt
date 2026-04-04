@@ -23,3 +23,5 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_DiChuyenChumDiem.rb|5H_Di Chuyển Chùm Điểm|FiveH::DiChuyenChumDiemLoader
 5H_Fredo6_FredoScale.rb|22. Co kéo Đối Tượng theo tỉ lệ|@menu:Box Stretching
 5H_Move.rb|Move ABF + Tấm|FiveH::MoveLoader
+5H_ThayTheDoiTuong.rb|5H_Thay Thế Đối Tượng|FiveH::ThayTheDoiTuongLoader
+5H_ThayTheVatLieu.rb|5H_Thay Thế Vật Liệu|FiveH::ThayTheVatLieuLoader
