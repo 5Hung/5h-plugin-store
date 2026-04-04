@@ -25,3 +25,4 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_Move.rb|Move ABF + Tấm|FiveH::MoveLoader
 5H_ThayTheDoiTuong.rb|5H_Thay Thế Đối Tượng|FiveH::ThayTheDoiTuongLoader
 5H_ThayTheVatLieu.rb|5H_Thay Thế Vật Liệu|FiveH::ThayTheVatLieuLoader
+5H_XoaID_RaMakeGroup.rb|5H_XoaID_RaMakeGroup|FiveH::XoaIDRaMakeGroupLoader
