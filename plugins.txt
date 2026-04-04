@@ -19,3 +19,4 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_TimTamDaVatLieu.rb|5H_Tìm Tấm Đa Vật Liệu|FiveH::TimTamDaVatLieuLoader
 5H_TimTamGiaCong2Mat.rb|5H_Tìm tấm gia công 2 mặt|FiveH::TimTamGiaCong2MatLoader
 5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhauLoader
+5H_UnHideAll.rb|5H_Hiện Lại Tất Cả Các Đối Tượng Ẩn|FiveH::UnHideAllLoader
