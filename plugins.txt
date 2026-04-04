@@ -12,3 +12,10 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_Align.rb|o. 5H_Gióng và Copy|FiveH::AlignLoader
 5H_Mirror.rb|p.5H_Lật và Copy|FiveH::MirrorLoader
 5H_Rotate.rb|q. 5H_Xoay và copy|FiveH::RotateLoader
+5H_CongKhoi.rb|5H_Cộng Khối|FiveH::CongKhoiLoader
+5H_TaoCanh.rb|5H_Tạo Cánh Tủ|FiveH::TaoCanhLoader
+5H_TaoMat.rb|5H_Tạo Mặt|FiveH::TaoMatLoader
+5H_XoaABF.rb|19. Xóa liên kết ABF|FiveH::XoaABFLoader
+5H_TimTamDaVatLieu.rb|5H_Tìm Tấm Đa Vật Liệu|FiveH::TimTamDaVatLieuLoader
+5H_TimTamGiaCong2Mat.rb|5H_Tìm tấm gia công 2 mặt|FiveH::TimTamGiaCong2MatLoader
+5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhauLoader
