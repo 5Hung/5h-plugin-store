@@ -21,4 +21,4 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_TimTamTrungNhau.rb|28. Tìm Tấm Trùng|FiveH::TimTamTrungNhauLoader
 5H_UnHideAll.rb|5H_Hiện Lại Tất Cả Các Đối Tượng Ẩn|FiveH::UnHideAllLoader
 5H_DiChuyenChumDiem.rb|5H_Di Chuyển Chùm Điểm|FiveH::DiChuyenChumDiemLoader
-FredoScale_Box/5H_Fredo6_FredoScale.rb|22. Co kéo Đối Tượng theo tỉ lệ|@menu:Box Stretching
+5H_Fredo6_FredoScale.rb|22. Co kéo Đối Tượng theo tỉ lệ|@menu:Box Stretching
