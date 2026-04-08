@@ -27,4 +27,4 @@ FiveH_CV_90010825.rb|k.🔴 5H_Chống Văng|FiveH::CVEntry
 5H_ThayTheVatLieu.rb|5H_Thay Thế Vật Liệu|FiveH::ThayTheVatLieuLoader
 5H_XoaID_RaMakeGroup.rb|5H_XoaID_RaMakeGroup|FiveH::XoaIDRaMakeGroupLoader
 5H_DanhDauVatTN45.rb|29. Đánh dấu vát TN 45|FiveH::DanhDauVatTN45Loader
-5H_TangGiamKichThuocCanh.rb|30. Tăng/ giảm chỉ dán cạnh|FiveH:TangGiamKichThuocCanhLoader
+5H_TangGiamKichThuocCanh.rb|30. Tăng/ giảm chỉ dán cạnh|FiveH::TangGiamKichThuocCanhLoader
