@@ -1,8 +1,8 @@
 {
-  "bundle_version": "6",
+  "bundle_version": "7",
   "bundle_file": "bundle.zip",
   "bundle_url": "https://github.com/5Hung/5h-plugin-store/releases/latest/download/bundle.zip",
   "plugins_list_url": "https://5hung.github.io/5h-plugin-store/plugins.txt",
   "notice_url": "https://5hung.github.io/5h-plugin-store/notice.json",
-  "notes": "6"
+  "notes": "7"
 }
