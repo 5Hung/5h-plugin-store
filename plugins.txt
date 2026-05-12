@@ -7,7 +7,7 @@
 5H_ChiaDeu.rb|6. Chia Đều|FiveH::ChiaDeuLoader
 5H_TaoCanh.rb|7. Tạo Cánh|FiveH::TaoCanhLoader
 5H_TaoMat.rb|8. Tạo Mặt|FiveH::TaoMatLoader
-mc5h|9. Tạo MỘNG
+MC_5H.rb|9. Tạo MỘNG|FiveH::MC5HLoader
 FiveH_LED.rb|9. Tạo LED|FiveH::LEDEntry
 5H_Uon_Cong_Loader.rb|10. Uốn Cong|FiveH::UonCongEntry
 5H_KhauVan.rb|11. Khâu Ván|FiveH::KhauVanEntry
