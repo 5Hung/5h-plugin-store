@@ -2,7 +2,7 @@
 5H_Mirror.rb|2. Lật|FiveH::MirrorLoader
 5H_Rotate.rb|3. Xoay|FiveH::RotateLoader
 5H_TaoTam.rb|4. Tạo Tấm_V1|FiveH::TaoTamLoader
-5H_TaoTam.rb|4a.Tạo Tấm_V2|FiveH::TaoTamLoader
+5H_TaoTamV2.rb|4a.Tạo Tấm_v2|FiveH::TaoTamV2Loader
 5H_TaoDot.rb|5. Tạo Đợt|FiveH::TaoDotLoader
 5H_ChiaDeu.rb|6. Chia Đều|FiveH::ChiaDeuLoader
 5H_TaoCanh.rb|7. Tạo Cánh|FiveH::TaoCanhLoader
