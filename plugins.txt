@@ -10,7 +10,30 @@
 MC_5H.rb|9. Tạo MỘNG|FiveH::MC5HLoader
 FiveH_LED.rb|9. Tạo LED|FiveH::LEDEntry
 5H_Uon_Cong_Loader.rb|10. Uốn Cong|FiveH::UonCongEntry
-5H_KhauVan.rb|11. Khâu Ván|FiveH::KhauVanEntry
+5H_KhauVan.rb|11. Khấu Ván|FiveH::KhauVanEntry
 5H_KhauAmDuong.rb|12. Khấu Âm Dương|FiveH::KhauAmDuongEntry
+5H_KhuGoc_BoGoc.rb|12a. Khử góc/ Bo góc|FiveH::KhuGoc_BoGocLoader
 5H_CongKhoi.rb|13.Cộng Khối|FiveH::CongKhoiLoader
-5H_Fix102.rb|5H_Fix102|FiveH::Fix102Loader
+5H_Move.rb|14. Move|FiveH::MoveLoader
+5H_DiChuyenChumDiem.rb|15. Di Chuyển Chùm Điểm|FiveH::DiChuyenChumDiemLoader
+5H_Fredo6_FredoScale.rb|16. Scale|@menu:Box Stretching
+5H_ThayDoiKichThuocTu.rb|17. 5H_Thay Đổi Kích Thước Tủ|FiveH::ThayDoiKichThuocTuLoader
+5H_ThayTheDoiTuong.rb|18. Thay Thế Đối Tượng|FiveH::ThayTheDoiTuongLoader
+5H_ThayTheVatLieu.rb|19. Thay Thế Vật Liệu|FiveH::ThayTheVatLieuLoader
+5H_XoaVatLieu.rb|20. Xóa Vật Liệu|FiveH::XoaVatLieuLoader
+5H_XoaABF.rb|21. Xóa liên kết ABF|FiveH::XoaABFLoader
+5H_XoaID_RaMakeGroup.rb|22. 5H_Xóa ID_RaMakeGroup|FiveH::XoaIDRaMakeGroupLoader
+5H_DanhDauVatTN45.rb|23. Đánh dấu vát TN 45|FiveH::DanhDauVatTN45Loader
+5H_TangGiamKichThuocCanh.rb|24. 5H_Tăng/Giảm Chỉ Dán Cạnh|FiveH::TangGiamKichThuocCanhLoader
+5H_ChonVanTheoVatLieu.rb|25. Chọn ván theo vật liệu|FiveH::ChonVanTheoVatLieuLoader
+5H_ChonTam_v1.rb|25a. Chọn Tấm_v1|FiveH::ChonTamV1Loader
+5H_CoLapDoiTuong.rb|26. Cô Lập Đối Tượng|FiveH::CoLapDoiTuongLoader
+5H_UnHideAll.rb|26a. Hiện Lại Tất Cả Các Đối Tượng Ẩn|FiveH::UnHideAllLoader
+5H_FixVanVan.rb|27. Fix Vân Ván|FiveH::FixVanVan
+5H_DrawSpline.rb|28.Vẽ Spline|FiveH::DrawSplineLoader
+5H_SaveSelect.rb|29. Save Select|FiveH::SaveSelectLoader
+5H_ChongVang.rb|30. Chống Văng|FiveH::ChongVangLoader
+5H_Fix102.rb|31. Fix102|FiveH::Fix102Loader
+5H_KiemTraFile.rb|32. Kiểm Tra File|FiveH::KiemTraFileLoader
+
+
