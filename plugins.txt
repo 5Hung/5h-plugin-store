@@ -32,7 +32,7 @@ FiveH_LED.rb|9a. Tạo LED|FiveH::LEDEntry
 5H_FixVanVan.rb|27. Fix Vân Ván|FiveH::FixVanVan
 5H_DrawSpline.rb|28.Vẽ Spline|FiveH::DrawSplineLoader
 5H_SaveSelect.rb|29. Save Select|FiveH::SaveSelectLoader
-5H_ChongVang.rb|30. Chống Văng|FiveH::ChongVangLoader
+5H_ChongVang.rb|30. CHỐNG VĂNG|FiveH::ChongVangLoader
 5H_Fix102.rb|31. Fix102|FiveH::Fix102Loader
 5H_KiemTraFile.rb|32. Kiểm Tra File Trước Khi Nesting|FiveH::KiemTraFileLoader
 
