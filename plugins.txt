@@ -35,5 +35,6 @@ FiveH_LED.rb|9a. Tạo LED|FiveH::LEDEntry
 5H_ChongVang.rb|30. CHỐNG VĂNG|FiveH::ChongVangLoader
 5H_Fix102.rb|31. Fix102|FiveH::Fix102Loader
 5H_KiemTraFile.rb|32. Kiểm Tra File Trước Khi Nesting|FiveH::KiemTraFileLoader
+5H_Fix_Canh_Kinh.rb|33. Fix Cánh Kính|FiveH::FixCanhKinhLoader
 
 
