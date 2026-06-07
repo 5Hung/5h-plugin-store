@@ -36,4 +36,4 @@ FiveH_LED.rb|9a. Tạo LED|FiveH::LEDEntry|5H_LED
 5H_Fix102.rb|31. Fix102|FiveH::Fix102Loader|FREE
 5H_KiemTraFile.rb|32. Kiểm Tra File Trước Khi Nesting|FiveH::KiemTraFileLoader|5H_KIEM_TRA_FILE
 5H_LamMinDuongCong.rb|33. Làm Mịn Đường Cong|FiveH::LamMinDuongCongLoader|FREE
-5H_Gcode.rb|5H_Xuất Gcode|FiveH::GcodeLoader|5H_XUAT_GCODE
+5H_Gcode.rb|5H_Xuất Gcode|FiveH::GcodeLoader|FREE
