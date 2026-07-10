@@ -3,7 +3,7 @@
   "plugin_name": "5H_Tool Nhựa Rỗng",
   "version": "1.0.163",
   "bundle_version": "1.0.163",
-  "bundle_url": "https://5hung.github.io/5h-plugin-store/bundle_nhua_rong.zip",
+  "bundle_url": "https://github.com/5Hung/5h-plugin-store/releases/latest/download/bundle_nhua_rong.zip",
   "bundle_file": "bundle_nhua_rong.zip",
   "api_base": "https://5h-plugin-hub-api.arch-hungtran.workers.dev",
   "notice_url": "https://5hung.github.io/5h-plugin-store/notice_nhua_rong.json"
