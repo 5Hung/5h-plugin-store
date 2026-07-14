@@ -1,8 +1,8 @@
 {
   "product_code": "5H_TOOL_NHUA_RONG",
   "plugin_name": "5H_Tool Nhựa Rỗng",
-  "version": "1.0.164",
-  "bundle_version": "1.0.189",
+  "version": "1.0.171",
+  "bundle_version": "1.0.171",
   "bundle_url": "https://github.com/5Hung/5h-plugin-store/releases/latest/download/bundle_nhua_rong.zip",
   "bundle_file": "bundle_nhua_rong.zip",
   "api_base": "https://5h-plugin-hub-api.arch-hungtran.workers.dev",
