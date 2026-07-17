@@ -29,7 +29,7 @@ FiveH_LED.rb|9a. Tạo LED|FiveH::LEDEntry|5H_LED
 5H_ChonTam_v1.rb|25a. Chọn Tấm_v1|FiveH::ChonTamV1Loader|FREE
 5H_CoLapDoiTuong.rb|26. Cô Lập Đối Tượng|FiveH::CoLapDoiTuongLoader|FREE
 5H_UnHideAll.rb|26a. Hiện Lại Tất Cả Các Đối Tượng Ẩn|FiveH::UnHideAllLoader|FREE
-5H_FixVanVan.rb|27. Fix Vân Ván|FiveH::FixVanVan|FREE
+5H_FixVanVan.rb|27. Fix Vân Ván|FiveH::FixVanVanLoader|FREE
 5H_DrawSpline.rb|28.Vẽ Spline|FiveH::DrawSplineLoader|FREE
 5H_SaveSelect.rb|29. Save Select|FiveH::SaveSelectLoader|FREE
 5H_ChongVang.rb|30. CHỐNG VĂNG|FiveH::ChongVangLoader|5H_CHONG_VANG
