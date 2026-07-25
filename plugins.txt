@@ -9,7 +9,6 @@
 5H_TaoMat.rb|8. Tạo Mặt|FiveH::TaoMatLoader|FREE
 MC_5H.rb|9. Tạo MỘNG|FiveH::MC5HLoader|5H_MONG_CHO
 FiveH_LED.rb|9a. Tạo LED|FiveH::LEDEntry|5H_LED
-5H_Uon_Cong.rb|10. Uốn Cong|FiveH::UonCongEntry|FREE|5H_UON_CONG
 5H_KhauVan.rb|11. Khấu Ván|FiveH::KhauVanEntry|5H_KHAU_VAN
 5H_KhauAmDuong.rb|12. Khấu Âm Dương|FiveH::KhauAmDuongEntry|5H_KHAU_AM_DUONG
 5H_KhuGoc_BoGoc.rb|12a. Khử góc/ Bo góc|FiveH::KhuGoc_BoGocLoader|FREE
